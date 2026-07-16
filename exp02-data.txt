@@ -3,7 +3,7 @@ p2: seed
 p3: seed
 p4: seed
 p5: seed
-p6: seed
+p6: h-side
 p7: seed
 p8: seed
 p9: seed
